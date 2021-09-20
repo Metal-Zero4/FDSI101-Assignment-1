@@ -1,0 +1,25 @@
+h1{
+    Color:Black;
+    background-color: cadetblue;
+    text-align: center;
+    margine-left:auto;
+    margine-right:auto;
+    text-shadow:darkslategrey 3px 3px;
+    text-transform: uppercase;
+}
+header{
+    text-decoration: none;
+    text-align: left;
+
+}
+p{
+    text-align: center;
+    margin-right:80px;
+    margin-left:80px;
+    border-top: 20px;
+    border-bottom: 50px;
+    border-radius: 15px;
+    line-height: 1.5;
+    color:ghostwhite;
+    background-color: darkslategray;
+}
